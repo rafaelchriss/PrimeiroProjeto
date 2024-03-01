@@ -35,7 +35,8 @@ Tecnologias Utilizadas
 
 
 
-div align="center"
-img src="![app-simples](https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd)" width="0px" /
-/div
+<p align="center">
+    <img src="https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd" alt="Logo do Seu App" width="100" height="100">
+  </a>
+</p>
 
