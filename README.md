@@ -34,9 +34,10 @@ Tecnologias Utilizadas
 📱 Mobile: Desenvolvido com Kotlin.
 
 
-
 <p align="center">
-    <img src="https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd" alt="Logo do Seu App" width="100" height="100">
+  <a href="https://github.com/rafaelchriss/PrimeiroProjeto">
+    <img src="https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd" alt="Logo do Seu App" width="150" height="150">
   </a>
 </p>
+
 
