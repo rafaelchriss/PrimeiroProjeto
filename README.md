@@ -10,26 +10,24 @@ Bem-vindo ao **Seu App**, um aplicativo simples que gera números aleatórios de
 
 ## Como Usar
 
-1. Copie o link do repositório: 
-   ```bash
-   https://github.com/rafaelchriss/PrimeiroProjeto.git
+1. Abra o Android Studio.
 
+2. No Android Studio, vá para **Get from VCS**.
 
-Abra o Android Studio.
+3. Cole o link do repositório no campo URL.
 
-No Android Studio, vá para File > New > Project from Version Control.
+   - Escolha a opção "GitHub" em Version Control.
 
-Cole o link do repositório no campo URL.
+4. Cole a URL do projeto: `https://github.com/rafaelchriss/PrimeiroProjeto`.
 
-Clique em "Clone" para baixar o projeto.
+5. Após o clone, abra o projeto no Android Studio.
 
-Após o download, abra o projeto no Android Studio.
+6. Execute o aplicativo no emulador ou dispositivo físico.
 
-Execute o aplicativo no emulador ou dispositivo físico.
+7. Toque no botão para gerar um novo número aleatório.
 
-Toque no botão para gerar um novo número aleatório.
+   - Agora você pode explorar o aplicativo e testar suas funcionalidades! 🚀✨
 
-Divirta-se explorando o código e experimentando o aplicativo! 🚀✨
 
 Tecnologias Utilizadas
 <br>
