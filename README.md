@@ -32,3 +32,9 @@ Bem-vindo ao **Seu App**, um aplicativo simples que gera números aleatórios de
 Tecnologias Utilizadas
 <br>
 📱 Mobile: Desenvolvido com Kotlin.
+
+
+
+
+![app-simples](https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd)
+
