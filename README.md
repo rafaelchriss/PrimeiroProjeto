@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="link_para_uma_imagem_do_seu_app" alt="Logo do Seu App" width="200" height="200">
-</p>
+
 
 # Seu App - Gerador de Números Aleatórios 🎲
 
