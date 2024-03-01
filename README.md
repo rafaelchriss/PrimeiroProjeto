@@ -36,7 +36,7 @@ Tecnologias Utilizadas
 
 <p align="center">
   <a href="https://github.com/rafaelchriss/PrimeiroProjeto">
-    <img src="https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd" alt="Logo do Seu App" width="650">
+    <img src="https://github.com/rafaelchriss/PrimeiroProjeto/assets/86614504/062fb28f-86ea-4f52-a26f-f5f64edfe1dd" alt="Logo do Seu App" width="500">
   </a>
 </p>
 
