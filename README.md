@@ -12,4 +12,4 @@ Bem-vindo ao **Seu App**, um aplicativo simples que gera números aleatórios de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/[seu-usuario]/seu-app.git
+   git clone https://github.com/rafaelchriss/PrimeiroProjeto.git
