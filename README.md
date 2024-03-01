@@ -16,4 +16,5 @@ Bem-vindo ao **Seu App**, um aplicativo simples que gera números aleatórios de
 
 
 Tecnologias Utilizadas
+<br>
 📱 Mobile: Desenvolvido com Klotin.
